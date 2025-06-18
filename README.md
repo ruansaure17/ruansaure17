@@ -23,7 +23,7 @@ Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da inf
         />
     </a>
 </p>
----
+___________________________________________________________________________________________________________________________________________________________
 
 ### 🖥️Linguagens e Tecnologias
 
