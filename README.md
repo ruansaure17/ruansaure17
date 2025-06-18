@@ -4,6 +4,7 @@
 
 Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da informação na FATEC Santana de Parnaíba. Gosto muito de tecnologia, principalmente Desenvolvimento de Sistemas e Cybersegurança. Compartilho todos os acontecimentos da minha vida acadêmica e profissional no meu [LinkedIn](https://www.linkedin.com/in/ruan-saure-a569112b1/)
 
+<div class="links">
 <p align="left">
     <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/">
     <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-right: 2px">
@@ -23,6 +24,7 @@ Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da inf
         />
     </a>
 </p>
+</div>
 ________________________________________________________________________________________________________________________
 
 ### 🖥️Linguagens e Tecnologias
@@ -67,7 +69,7 @@ style="padding-right: 10px"
 align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 <style>
-    .imagens{
+    .links{
         gap: 10px;
     }
 </style>
