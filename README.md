@@ -5,8 +5,8 @@
 Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da informação na FATEC Santana de Parnaíba. Gosto muito de tecnologia, principalmente Desenvolvimento de Sistemas e Cybersegurança. Compartilho todos os acontecimentos da minha vida acadêmica e profissional no meu [LinkedIn](https://www.linkedin.com/in/ruan-saure-a569112b1/)
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/">
-    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-right: 2px">
+    <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/" target="blank">
+    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-right: 7px">
     </a>
     <a href="https://github.com/ruansaure17?tab=repositories&sort=stargazers">
         <img 
