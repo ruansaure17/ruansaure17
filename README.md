@@ -26,7 +26,7 @@ Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da inf
 ________________________________________________________________________________________________________________________
 
 ### 🖥️Linguagens e Tecnologias
-
+<div class="imagens">
 <img
     style="padding-right: 10px"
     align="left"
@@ -65,3 +65,9 @@ style="padding-right: 10px"
 <img 
 style="padding-right: 10px"
 align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+</div>
+<style>
+    .imagens{
+        gap: 10px;
+    }
+</style>
