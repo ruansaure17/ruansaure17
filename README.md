@@ -6,7 +6,7 @@ Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da inf
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/" target="blank">
-    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-right: 7px">
+    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-left: 200px">
     </a>
     <a href="https://github.com/ruansaure17?tab=repositories&sort=stargazers">
         <img 
