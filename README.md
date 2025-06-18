@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👾 Ruan Saure
 
-<!--
-**ruansaure17/ruansaure17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de segurança da informação`**
 
-Here are some ideas to get you started:
+Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da informação na FATEC Santana de Parnaíba. Gosto muito de tecnologia, principalmente Desenvolvimento de Sistemas e Cybersegurança. Compartilho todos os acontecimentos da minha vida acadêmica e profissional no meu [LinkedIn](https://www.linkedin.com/in/ruan-saure-a569112b1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/">
+    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-right: 2px">
+    </a>
+    <a href="https://github.com/ruansaure17?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ruansaure17?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/ruansaure17?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ruansaure17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
