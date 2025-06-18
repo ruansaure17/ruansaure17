@@ -5,8 +5,8 @@
 Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da informação na FATEC Santana de Parnaíba. Gosto muito de tecnologia, principalmente Desenvolvimento de Sistemas e Cybersegurança. Compartilho todos os acontecimentos da minha vida acadêmica e profissional no meu [LinkedIn](https://www.linkedin.com/in/ruan-saure-a569112b1/)
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/" target="blank">
-    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-left: 200px">
+    <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/">
+    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-right: 2px">
     </a>
     <a href="https://github.com/ruansaure17?tab=repositories&sort=stargazers">
         <img 
@@ -23,3 +23,45 @@ Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da inf
         />
     </a>
 </p>
+---
+
+### 🖥️Linguagens e Tecnologias
+
+<img
+    style="padding-right: 10px"
+    align="left"
+    alt="HTML5"
+    title="HTML"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img
+    style="padding-right: 10px"
+    align="left"
+    alt="CSS3"
+    title="CSS"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+
+<img
+    style="padding-right: 10px"
+    align="left"
+    alt="Javascript"
+    title="JS"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+<img
+style="padding-right: 10px"
+ align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+
+<img
+ style="padding-right: 10px"
+ align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
+
+<img 
+style="padding-right: 10px"
+align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
