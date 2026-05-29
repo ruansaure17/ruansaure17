@@ -26,7 +26,6 @@ ________________________________________________________________________________
 <div class="imagens">
 <img
     style="padding-right: 10px"
-    align="left"
     alt="HTML5"
     title="HTML"
     width="35px"
@@ -34,7 +33,6 @@ ________________________________________________________________________________
 
 <img
     style="padding-right: 10px"
-    align="left"
     alt="CSS3"
     title="CSS"
     width="35px"
@@ -43,7 +41,6 @@ ________________________________________________________________________________
 
 <img
     style="padding-right: 10px"
-    align="left"
     alt="Javascript"
     title="JS"
     width="35px"
@@ -51,17 +48,17 @@ ________________________________________________________________________________
           
 <img
 style="padding-right: 10px"
- align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 
 <img
  style="padding-right: 10px"
- align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
 
 <img 
 style="padding-right: 10px"
-align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+ width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 
 ___________________________________________________________________________________________________________
