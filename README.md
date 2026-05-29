@@ -21,46 +21,16 @@ ________________________________________________________________________________
 📚 Continuous learner through projects, labs and CTFs
 ________________________________________________________________________________________________________________________
 
-
 ### 🛠️ Technologies & Tools
-<div class="imagens">
-<img
-    style="padding-right: 10px"
-    alt="HTML5"
-    title="HTML"
-    width="35px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<img
-    style="padding-right: 10px"
-    alt="CSS3"
-    title="CSS"
-    width="35px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-
-<img
-    style="padding-right: 10px"
-    alt="Javascript"
-    title="JS"
-    width="35px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-<img
-style="padding-right: 10px"
-  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-
-<img
- style="padding-right: 10px"
-  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
-
-<img 
-style="padding-right: 10px"
- width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-</div>
-
+<p align="left">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+</p>
 ___________________________________________________________________________________________________________
 
 ### 📌 Current Focus
