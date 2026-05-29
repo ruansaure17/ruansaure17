@@ -3,14 +3,21 @@ Hi, I'm Ruan 👋😁
 💻 Information Security Student focused on Cybersecurity, Secure Development, Networking and Automation.
 
 Passionate about building practical and secure solutions through hands-on projects, infrastructure labs and real-world problem solving. Currently improving my skills in application security, backend development, Linux environments and DevSecOps practices.
-
+________________________________________________________________________________________________________________________
 🚀 About Me
+
 🎓 Information Security Student
+
 🔐 Focused on Cybersecurity & Application Security
+
 🐧 Linux and Infrastructure Enthusiast
+
 🌐 Networking & System Administration
+
 ⚡ Python Automation & Backend Development
+
 🛡️ Secure Development & Code Analysis
+
 📚 Continuous learner through projects, labs and CTFs
 ________________________________________________________________________________________________________________________
 
@@ -55,27 +62,40 @@ style="padding-right: 10px"
 style="padding-right: 10px"
 align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
+________________________________________________________________________________________________________________________
 
 ### 📌 Current Focus
 Web Security
+
 Secure APIs
+
 DevSecOps
+
 Linux Hardening
+
 Network Analysis
+
 Vulnerability Assessment
+
 Backend Security
+
 Infrastructure & Automation
+________________________________________________________________________________________________________________________
 
 ### 🎯 Goals
 
 Currently focused on growing as a future:
 
 Security Engineer
+
 Application Security Analyst
+
 DevSecOps Engineer
+________________________________________________________________________________________________________________________
 
 ### 📫 Contact
 LinkedIn: www.linkedin.com/in/ruansaure
+
 GitHub: github.com/ruansaure17
 
 <picture align="center">
