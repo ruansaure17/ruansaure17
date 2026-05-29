@@ -1,33 +1,20 @@
-# 👾 Ruan Saure
+Hi, I'm Ruan 👋😁
 
-**`Estudante de segurança da informação`**
+💻 Information Security Student focused on Cybersecurity, Secure Development, Networking and Automation.
 
-Me chamo Ruan Saure, tenho 19 anos e estou atualmente cursando Segurança da informação na FATEC Santana de Parnaíba. Gosto muito de tecnologia, principalmente Desenvolvimento de Sistemas e Cybersegurança. Compartilho todos os acontecimentos da minha vida acadêmica e profissional no meu [LinkedIn](https://www.linkedin.com/in/ruan-saure-a569112b1/)
+Passionate about building practical and secure solutions through hands-on projects, infrastructure labs and real-world problem solving. Currently improving my skills in application security, backend development, Linux environments and DevSecOps practices.
 
-<div class="links">
-<p align="left">
-    <a href="https://www.linkedin.com/in/ruan-saure-a569112b1/">
-    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width="100px" style="margin-right: 2px">
-    </a>
-    <a href="https://github.com/ruansaure17?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ruansaure17?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ruansaure17?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ruansaure17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-</div>
+🚀 About Me
+🎓 Information Security Student
+🔐 Focused on Cybersecurity & Application Security
+🐧 Linux and Infrastructure Enthusiast
+🌐 Networking & System Administration
+⚡ Python Automation & Backend Development
+🛡️ Secure Development & Code Analysis
+📚 Continuous learner through projects, labs and CTFs
 ________________________________________________________________________________________________________________________
 
-### 🖥️Linguagens e Tecnologias
+### 🛠️ Technologies & Tools
 <div class="imagens">
 <img
     style="padding-right: 10px"
@@ -68,6 +55,28 @@ style="padding-right: 10px"
 style="padding-right: 10px"
 align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
+
+### 📌 Current Focus
+Web Security
+Secure APIs
+DevSecOps
+Linux Hardening
+Network Analysis
+Vulnerability Assessment
+Backend Security
+Infrastructure & Automation
+
+### 🎯 Goals
+
+Currently focused on growing as a future:
+
+Security Engineer
+Application Security Analyst
+DevSecOps Engineer
+
+### 📫 Contact
+LinkedIn: www.linkedin.com/in/ruansaure
+GitHub: github.com/ruansaure17
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruansaure17/ruansaure17/output/github-contribution-grid-snake-dark.svg">
