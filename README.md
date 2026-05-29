@@ -1,8 +1,8 @@
-Hi, I'm Ruan 👋😁
+Hi, I'm Ruan 👋
 
 💻 Information Security Student focused on Cybersecurity, Secure Development, Networking and Automation.
 
-Passionate about building practical and secure solutions through hands-on projects, infrastructure labs and real-world problem solving. Currently improving my skills in application security, backend development, Linux environments and DevSecOps practices.
+Focused on building practical projects involving cybersecurity, backend development, Linux environments and automation while continuously improving through hands-on learning and labs.
 ________________________________________________________________________________________________________________________
 🚀 About Me
 
