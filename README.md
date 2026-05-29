@@ -64,7 +64,7 @@ style="padding-right: 10px"
 align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 
-________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________
 
 ### 📌 Current Focus
 Web Security
