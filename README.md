@@ -66,7 +66,7 @@ ________________________________________________________________________________
 ### 📫 Contact
 LinkedIn: www.linkedin.com/in/ruansaure
 
-GitHub: github.com/ruansaure17
+GitHub: [github.com/ruansaure17](https://github.com/ruansaure17/ruansaure17)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruansaure17/ruansaure17/output/github-contribution-grid-snake-dark.svg">
