@@ -64,7 +64,7 @@ DevSecOps Engineer
 ________________________________________________________________________________________________________________________
 
 ### 📫 Contact
-LinkedIn: www.linkedin.com/in/ruansaure
+LinkedIn: [www.linkedin.com/in/ruansaure](https://www.linkedin.com/in/ruan-saure-a569112b1/)
 
 GitHub: [github.com/ruansaure17](https://github.com/ruansaure17)
 
