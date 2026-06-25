@@ -58,7 +58,7 @@ Currently focused on growing as a future:
 
 Security Engineer
 
-Application Security Analyst
+Pentester
 
 DevSecOps Engineer
 ________________________________________________________________________________________________________________________
